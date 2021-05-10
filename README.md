@@ -1,6 +1,6 @@
 # Image-Processing
 
-This is an image processing program for many filters and edge detections techniques.
+This is an image processing program for many filters and edge detection techniques.
 There are the techniques:
 
 - Sobel Detection
